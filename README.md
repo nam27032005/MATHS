@@ -1,4 +1,4 @@
-# DoP
+# Maths
 # Use your slime eat others. <br/>
 # Eat <br/>
 Red: your power minus another<br/>
