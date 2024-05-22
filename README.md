@@ -10,8 +10,8 @@ Xanh lá: chỉ số của bạn chia lấy dư chỉ số khác<br/>
 
 # Chọn mức độ:<br/>
 Dễ: sau mỗi 60 giây nếu bạn không đạt được một số ngẫu nhiên, bạn sẽ phải đạt một số ngẫu nhiên khác<br/>
-Bình thường: sau mỗi 50 giây nếu bạn không đạt được một số ngẫu nhiên, bạn sẽ phải đạt một số ngẫu nhiên khác<br/>
-Khó: sau mỗi 40 giây nếu bạn không đạt được một số ngẫu nhiên, bạn sẽ phải đạt một số ngẫu nhiên khác<br/>
+Bình thường: sau mỗi 40 giây nếu bạn không đạt được một số ngẫu nhiên, bạn sẽ phải đạt một số ngẫu nhiên khác<br/>
+Khó: sau mỗi 30 giây nếu bạn không đạt được một số ngẫu nhiên, bạn sẽ phải đạt một số ngẫu nhiên khác<br/>
 
 # Trò chơi kết thúc:<br/>
 Khi hết thời gian và bạn không đạt được số đã chỉ định, bạn sẽ thua<br/>
