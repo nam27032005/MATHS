@@ -1,13 +1,20 @@
-# Maths
-# Use your slime eat others. <br/>
-# Eat <br/>
-Red: your power minus another<br/>
-Blue: your power multiply another<br/>
-Gray: your power plus another<br/>
-Green: your power modulo another<br/>
-# Choose level:<br/>
-Easy: after every 60s if you can not reach a random number you will have to reach another random number<br/>
-Normal: after every 50s if you can not reach a random number you will have to reach another random number<br/>
-Hard: after every 40s if you can not reach a random number you will have to reach another random number<br/>
-# Gameover:<br/>
-When the time out and you have not reached the number you loose
+# MATHS
+
+# Dùng slime của bạn để ăn những mục tiêu khác. <br/>
+
+# Ăn <br/>
+Đỏ: chỉ số của bạn trừ đi chỉ số khác<br/>
+Xanh: chỉ số của bạn nhân với chỉ số khác<br/>
+Xám: chỉ số của bạn cộng với chỉ số khác<br/>
+Xanh lá: chỉ số của bạn chia lấy dư chỉ số khác<br/>
+
+# Chọn mức độ:<br/>
+Dễ: sau mỗi 60 giây nếu bạn không đạt được một số ngẫu nhiên, bạn sẽ phải đạt một số ngẫu nhiên khác<br/>
+Bình thường: sau mỗi 50 giây nếu bạn không đạt được một số ngẫu nhiên, bạn sẽ phải đạt một số ngẫu nhiên khác<br/>
+Khó: sau mỗi 40 giây nếu bạn không đạt được một số ngẫu nhiên, bạn sẽ phải đạt một số ngẫu nhiên khác<br/>
+
+# Trò chơi kết thúc:<br/>
+Khi hết thời gian và bạn không đạt được số đã chỉ định, bạn sẽ thua<br/>
+
+# Hướng dẫn cài đặt game chi tiết<br/>
+https://youtu.be/spa6Pc6nJrE
